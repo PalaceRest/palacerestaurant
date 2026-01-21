@@ -3,4 +3,5 @@
  Disallow:/private
  Disallow:admin
 
- sitemap:https://username.github.io/sitemap.xml
+
+ sitemap: https://palacerest.github.io/palacerestaurant//sitemap.xml
