@@ -65,7 +65,7 @@ const body = `
            Please process my order and let me know the next steps.
          `.trim();
 
-const mailtoLink = `mailto:palacerestaurant@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+const mailtoLink = `mailto:palacerestaurant0@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 
 window.location.herf =mailtoLink;
 
@@ -74,4 +74,5 @@ thankYou.style.display ='block';
 thankYou.scrollIntoView({behavior:"smooth" });
 });
 });        
+
 
