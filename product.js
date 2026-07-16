@@ -310,7 +310,7 @@ if (checkoutForm) {
         const subject = `New Food Order from ${name}`;
         const body = `Hello Palace Restaurant,\n\nI would like to place an order details:\n\n${orderDetails}\n\nTotal: ₵${totalOrder.toFixed(2)}\n\nDelivery Information Details:\n- Customer Name: ${name}\n- Email: ${email}\n- Delivery Address/Landmark: ${address}\n- Phone Contact: ${phone}\n\nPlease contact me back to confirm production delivery scheduling. Thanks!`;
         
-        const mailtoLink = `mailto:korsahjesse@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+        const mailtoLink = `mailto:palacerestaurant0@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
         
         // Open the email app
         window.location.href = mailtoLink;
