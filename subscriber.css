@@ -9,7 +9,7 @@
     max-width:650px;
     margin:auto;
     /* background:rgba(255,255,255,.12); */
-    background:linear-gradient(135deg,#1f8ff115,#1c427e15),url("productimages/shopping.jpeg")center center/cover no-repeat;
+    background:linear-gradient(135deg,#1f8ff115,#1c427e15),url("images/background.png")center center/cover no-repeat;
     backdrop-filter:blur(18px);
     border:1px solid rgba(255,255,255,.25);
     border-radius:25px;
